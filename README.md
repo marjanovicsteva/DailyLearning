@@ -1,5 +1,7 @@
 # Daily Tanakh Reading 929
 
+<img width="697" height="530" alt="Screenshot 2025-07-12 at 03 43 31" src="https://github.com/user-attachments/assets/d9b2fe53-91bc-4fb6-8fe4-d27b8abc97f9" />
+
 I created this app for terminal integration to show daily Tanakh readings.
 
 ## Building
