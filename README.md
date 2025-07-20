@@ -4,6 +4,19 @@
 
 I created this app for terminal integration to show daily Tanakh readings.
 
+## Usage
+
+```shell
+# This just shows the daily Chapter and summary if it exists
+dailylearning
+
+# This updates the database of chapter summaries from Data/summaries.json file (snapshot of OpenScripture API as of July 2025)
+dailylearning update
+
+# This updates the database of chapter summaries directly from OpenScripture API
+dailylearning fetch
+```
+
 ## Building
 
 `dotnet publish -c Release -r osx-arm64 --self-contained`
